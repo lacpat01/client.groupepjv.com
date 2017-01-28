@@ -1,0 +1,6 @@
+[25-Jan-2017 15:41:38 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/konnexion/public_html/devx/client/dbconnect.php on line 12
+[25-Jan-2017 15:41:38 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/konnexion/public_html/devx/client/dbconnect.php on line 13
+[25-Jan-2017 15:41:38 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/konnexion/public_html/devx/client/dbconnect.php on line 13
+[27-Jan-2017 15:05:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/konnexion/client.groupepjv.com/signup.php on line 29
+[27-Jan-2017 15:05:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/konnexion/client.groupepjv.com/signup.php on line 29
+[27-Jan-2017 15:05:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/konnexion/client.groupepjv.com/signup.php on line 29
